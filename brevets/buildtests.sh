@@ -1,0 +1,1 @@
+docker build -t brevets . && docker run --rm --entrypoint nosetests brevets

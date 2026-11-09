@@ -1,0 +1,1 @@
+docker build -t brevets . && docker run -p 5001:5000 brevets
